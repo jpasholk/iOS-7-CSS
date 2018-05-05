@@ -1,6 +1,6 @@
 # [Jekyll iOS CSS](https://jekyll-ios-css.jpasholk.com)
 
-Based on [iOS-7-CSS](https://github.com/hbang/iOS-7-CSS) by https://github.com/kirb, who is a gentleman and a scholar.
+Based on [iOS-7-CSS](https://github.com/hbang/iOS-7-CSS) by [kirb](https://github.com/kirb), who is a gentleman and a scholar.
 
 ## TODO
 
